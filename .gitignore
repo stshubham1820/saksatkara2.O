@@ -1,0 +1,4 @@
+.env
+*.log
+celerybeat-schedule
+docker-compose.yml

@@ -1,0 +1,25 @@
+Django
+#channels
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+openai==0.28
+Pillow
+pydub
+requests
+mysqlclient
+celery
+redis
+flower
+django-celery-results
+django-redis
+gTTS
+gunicorn
+PyJWT
+django_celery_beat
+Cython
+pandas
+ffmpeg-python
+# websocket-client
+# daphne
+# uvicorn[standard]
